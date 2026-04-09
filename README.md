@@ -1,7 +1,7 @@
 # Lab4_Copilot
 
 Git ローカルリポジトリ操作をまとめたた演習用マニュアルです。  
-Markdown ドキュメントと GitHub Copilot を活用した Git 操作マニュアルが含まれています。
+ GitHub Copilot を活用した Git 操作マニュアルが含まれています。
 
 ---
 
