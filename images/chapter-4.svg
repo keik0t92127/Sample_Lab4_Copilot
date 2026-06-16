@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="240" viewBox="0 0 1200 240" role="img" aria-label="第4章 ブランチの操作">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#db2777"/>
+      <stop offset="100%" stop-color="#be185d"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="240" rx="20" fill="url(#bg)"/>
+  <circle cx="120" cy="120" r="70" fill="rgba(255,255,255,0.2)"/>
+  <text x="120" y="138" text-anchor="middle" fill="#fff" font-size="72" font-family="Arial, sans-serif" font-weight="700">4</text>
+  <text x="240" y="118" fill="#fff" font-size="46" font-family="Arial, sans-serif" font-weight="700">第4章 ブランチの操作</text>
+  <text x="240" y="165" fill="#e5e7eb" font-size="26" font-family="Arial, sans-serif">Gitローカル操作をステップで理解する</text>
+</svg>

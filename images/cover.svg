@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420" role="img" aria-label="Git Manual Cover">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#1f2937"/>
+      <stop offset="100%" stop-color="#111827"/>
+    </linearGradient>
+    <linearGradient id="card" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#f97316"/>
+      <stop offset="100%" stop-color="#fb923c"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="420" fill="url(#bg)" rx="28"/>
+  <rect x="80" y="70" width="290" height="280" rx="20" fill="url(#card)"/>
+  <text x="225" y="190" text-anchor="middle" fill="#fff" font-size="84" font-family="Arial, sans-serif" font-weight="700">GIT</text>
+  <text x="225" y="252" text-anchor="middle" fill="#fff" font-size="36" font-family="Arial, sans-serif">Manual</text>
+  <text x="430" y="180" fill="#f9fafb" font-size="56" font-family="Arial, sans-serif" font-weight="700">Git ローカルリポジトリ操作</text>
+  <text x="430" y="245" fill="#d1d5db" font-size="34" font-family="Arial, sans-serif">ハンズオンで学ぶ基本ワークフロー</text>
+  <text x="430" y="300" fill="#9ca3af" font-size="24" font-family="Arial, sans-serif">init / add / commit / branch / merge / restore</text>
+</svg>
